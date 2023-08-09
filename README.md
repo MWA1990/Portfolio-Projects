@@ -1,5 +1,6 @@
 # Portfolio-Projects
 My portfolio repo is a showcase of my skills and experience as a data enthusiast. It includes projects that I've worked on in my spare time. I'm always looking for new challenges, so if you have any project ideas, please let me know!
+<<<<<<< HEAD
 
 
 - [Portfolio-Projects](#portfolio-projects)
@@ -13,3 +14,5 @@ My portfolio repo is a showcase of my skills and experience as a data enthusiast
 ![PSL Dashboard](02_PSL_Analysis_in_PowerBI\PSL_Dashboard.PNG)
 ### 03 HR Dashboard in Tableau
 ![HR Dashboard](03_HR_Dashboard_in_Tableau\HR_Dashboard.png)
+=======
+>>>>>>> 4683856cac8c79820dd3ebe8da1b199a61ae4990
