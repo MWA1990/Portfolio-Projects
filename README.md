@@ -4,6 +4,7 @@ My portfolio repo is a showcase of my skills and experience as a data enthusiast
     - [01 Road Accident Dashboard in Excel](#01-road-accident-dashboard-in-excel)
     - [02 PSL Analysis in PowerBI](#02-psl-analysis-in-powerbi)
     - [03 HR Dashboard in Tableau](#03-hr-dashboard-in-tableau)
+    - [04_Data_Stories](#04-data-stories)
 
 ### 01 Road Accident Dashboard in Excel
 ![Road Accident Dashboard](01_Road_Accident_Dashboard_in_Excel/Road_Accident_Dashboard.PNG)
@@ -13,3 +14,6 @@ My portfolio repo is a showcase of my skills and experience as a data enthusiast
 
 ### 03 HR Dashboard in Tableau
 ![HR Dashboard](03_HR_Dashboard_in_Tableau/HR_Dashboard.png)
+
+### 04 Data Stories
+![Alt text](https://github.com/MWA1990/Portfolio-Projects/blob/main/04_Data_Stories/to/01_fifa_champions.gif)
