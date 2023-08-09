@@ -1,8 +1,5 @@
 # Portfolio-Projects
 My portfolio repo is a showcase of my skills and experience as a data enthusiast. It includes projects that I've worked on in my spare time. I'm always looking for new challenges, so if you have any project ideas, please let me know!
-<<<<<<< HEAD
-
-
 - [Portfolio-Projects](#portfolio-projects)
     - [01 Road Accident Dashboard in Excel](#01-road-accident-dashboard-in-excel)
     - [02 PSL Analysis in PowerBI](#02-psl-analysis-in-powerbi)
