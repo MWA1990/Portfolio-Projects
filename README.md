@@ -11,5 +11,3 @@ My portfolio repo is a showcase of my skills and experience as a data enthusiast
 ![PSL Dashboard](02_PSL_Analysis_in_PowerBI\PSL_Dashboard.PNG)
 ### 03 HR Dashboard in Tableau
 ![HR Dashboard](03_HR_Dashboard_in_Tableau\HR_Dashboard.png)
-=======
->>>>>>> 4683856cac8c79820dd3ebe8da1b199a61ae4990
