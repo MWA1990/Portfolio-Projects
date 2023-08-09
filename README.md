@@ -6,8 +6,10 @@ My portfolio repo is a showcase of my skills and experience as a data enthusiast
     - [03 HR Dashboard in Tableau](#03-hr-dashboard-in-tableau)
 
 ### 01 Road Accident Dashboard in Excel
-![Road Accident Dashboard](01_Road_Accident_Dashboard_in_Excel\Road_Accident_Dashboard.PNG)
+![Road Accident Dashboard](01_Road_Accident_Dashboard_in_Excel/Road_Accident_Dashboard.PNG)
+
 ### 02 PSL Analysis in PowerBI
-![PSL Dashboard](02_PSL_Analysis_in_PowerBI\PSL_Dashboard.PNG)
+![PSL Dashboard](02_PSL_Analysis_in_PowerBI/PSL_Dashboard.PNG)
+
 ### 03 HR Dashboard in Tableau
-![HR Dashboard](03_HR_Dashboard_in_Tableau\HR_Dashboard.png)
+![HR Dashboard](03_HR_Dashboard_in_Tableau/HR_Dashboard.png)
