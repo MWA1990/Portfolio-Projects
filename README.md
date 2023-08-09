@@ -16,4 +16,4 @@ My portfolio repo is a showcase of my skills and experience as a data enthusiast
 ![HR Dashboard](03_HR_Dashboard_in_Tableau/HR_Dashboard.png)
 
 ### 04 Data Stories
-![Alt text](https://github.com/MWA1990/Portfolio-Projects/blob/main/04_Data_Stories/to/01_fifa_champions.gif)
+![Alt text](https://github.com/MWA1990/Portfolio-Projects/blob/main/04_Data_Stories/01_fifa_champions.gif)
